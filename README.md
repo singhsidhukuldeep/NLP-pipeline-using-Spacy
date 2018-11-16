@@ -3,6 +3,7 @@
 Natural Language Processing, or NLP, is the sub-field of AI that is focused on enabling computers to understand and process human languages.
 
 ### Blog Post: [http://kuldeepsinghsidhu.blogspot.com](http://kuldeepsinghsidhu.blogspot.com)
+https://kuldeepsinghsidhu.blogspot.com/2018/11/getting-started-with-nlp-natural.html
 
 # Set Up
 
